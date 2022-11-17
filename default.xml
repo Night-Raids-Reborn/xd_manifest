@@ -2,10 +2,10 @@
 <manifest>
 
 <remote   name="caf"
-          fetch="https://source.codeaurora.org/quic/la/"
+          fetch="https://git.codelinaro.org/clo/la/"
           review="codeaurora.org"/>
 
-<default  revision="refs/tags/LA.QSSI.11.0.r1-14800-qssi.0"
+<default  revision="refs/tags/LA.QSSI.11.0.r1-17400-qssi.0"
           remote="caf"
           sync-j="8"
           sync-c="true"/>
