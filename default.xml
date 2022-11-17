@@ -3,7 +3,7 @@
 
 <remote   name="caf"
           fetch="https://git.codelinaro.org/clo/la/"
-          review="codeaurora.org"/>
+          review="codelinaro.org"/>
 
 <default  revision="refs/tags/LA.QSSI.11.0.r1-17400-qssi.0"
           remote="caf"
